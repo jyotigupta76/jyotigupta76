@@ -10,15 +10,15 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-- 🔭 I’m currently working on React-Native
+- 🔭 I’m currently working on Fullstack Developments 
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about React-Native
+- 💬 Ask me anything about Core Java
 - 📫 How to reach me: jyotik6204@gmail.com
 - ⚡ Fun fact: I'm comming to teen
 
 ### Connect with me:
 <div id="badges">
-    <a href="">
+    <a href="https://arnavraj28.github.io/Jyoti-Protfolio/">
         <img align="center" src="https://img.shields.io/badge/Portfolio%20-%20%23dc143c?style=for-the-badge&logo=ionic&logoColor=white" alt="" />
     </a>
     <a title="contact.jyotik6204@gmail.com" href="mailto:contact.jyotik6204@gmail.com">
@@ -35,7 +35,7 @@
 <h2>Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js" />
   </a>
 </p>
 
