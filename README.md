@@ -14,7 +14,6 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech Graduate in Electronics & Communication Engineering
 * 💻 Aspiring Software Developer with a strong interest in Backend Development
 * 🔭 Currently working on Full-Stack and Backend projects
 * 🌱 Currently learning and building applications with Spring Boot and AWS
